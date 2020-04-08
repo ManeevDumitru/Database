@@ -1,0 +1,266 @@
+{
+  "countries": {
+    "emirates": {
+      "dubai": {
+        "atlantis": {
+          "name": "Atlantis Resort",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "jumeirah": {
+          "name": "Jumeirah Resort",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "rixos": {
+          "name": "Rixos Resort",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "abu-dhabi": {
+        "dhabi": {
+          "name": "Abu-Dhabi Palace",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "palace": {
+          "name": "Golden Palace",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "rixos": {
+          "name": "Rixos Resort",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "Sharjah": {
+        "yas": {
+          "name": "Yas Resort",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "raha": {
+          "name": "Al Raha Palace",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "halidiya": {
+          "name": "Halidiya Palace",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      }
+    },
+    "thailand": {
+      "naithonburi": {
+        "naithonburi": {
+          "name": "Naithonburi Beach Resort",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "manathai": {
+          "name": "Manathai Khao",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "katathani": {
+          "name": "Shores of Katathani",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "pattaya": {
+        "tatum": {
+          "name": "Tatum Mansion",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "khaolak": {
+          "name": "Khaolak Beach Resort",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "charm": {
+          "name": "Charm Resort Phuket",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "ambassador": {
+        "sudala": {
+          "name": "Sudala Beach Resort",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "phut": {
+          "name": "Bo Phut Resort & Spa",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "cliff": {
+          "name": "Royal Cliff Beach Terrace",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      }
+    },
+    "maldives": {
+      "male": {
+        "kandima": {
+          "name": "Kandima Maldives",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "reethi": {
+          "name": "Reethi Rah Maldives",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "manafaru": {
+          "name": "Manafaru Ja",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "hithadho": {
+        "nazaki": {
+          "name": "Nazaki Residence",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "kani": {
+          "name": "Med Kani Club",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "adaaran": {
+          "name": "Adaaran Presige Villas",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      },
+      "fuhvahmulah": {
+        "madoogali": {
+          "name": "Madoogali Maldives",
+          "price": 300,
+          "stars": 3,
+          "review": 8.5,
+          "service": "nothing inclusive",
+          "description": "amazing hotel 1"
+        },
+        "banyan": {
+          "name": "Banyan Tree Maldives",
+          "price": 400,
+          "stars": 4,
+          "review": 9,
+          "service": "all inclusive",
+          "description": "amazing hotel 2"
+        },
+        "hurawalhi": {
+          "name": "Hurawalhi Resort",
+          "price": 500,
+          "stars": 5,
+          "review": 9.5,
+          "service": "all inclusive",
+          "description": "amazing hotel 3"
+        }
+      }
+    }
+  },
+  "vouchers": {
+    "AXB1": {
+      "reduce-value": "5%"
+    },
+    "AXB2": {
+      "reduce-value": "5%"
+    },
+    "AXB3": {
+      "reduce-value": "5%"
+    }
+  },
+  "cards": {
+    "4004-1234-2123-9999" : {
+      "reduce-value": "15%"
+    },
+    "4004-1234-2123-9998" : {
+      "reduce-value": "10%"
+    },
+    "4004-1234-2123-9997" : {
+      "reduce-value": "5%"
+    }
+  }
+}
